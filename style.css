@@ -30,9 +30,7 @@ body{
   grid-template-rows: max-content 1fr max-content;
 
 }
-#app > * {
-  border:1px solid red;
-}
+
 header,
 nav,
 ul {
